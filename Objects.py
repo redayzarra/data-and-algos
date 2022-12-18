@@ -10,3 +10,4 @@ Ashley, its color could be red, and its weight would be 6500 lbs, etc. Next,
 Ashley would also be able to produce different results from the same functions
 like introducing herself, waving differently, and fighting differently.
 """
+
