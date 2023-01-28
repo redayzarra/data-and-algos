@@ -18,3 +18,6 @@ in Python. To apply a function to every element, use map(function, array)
 """
 for element in map(abs, [-1, 3, 5, -3]):
   print(element)
+
+for x in (range(10, -1, -1)):
+  print(x)
